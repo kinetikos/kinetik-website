@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://www.kinetik.fi/"
+baseurl = "http://kinetik.netlify.com/"
 languageCode = "en-us"
 title = "Kinetik"
 theme = "hugo-freelancer-theme"
